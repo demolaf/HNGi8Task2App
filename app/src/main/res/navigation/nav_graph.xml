@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/inputFragment">
+
+
+    <fragment
+        android:id="@+id/inputFragment"
+        android:name="com.example.hngi8task2app.views.inputFragment.InputFragment"
+        android:label="InputFragment" />
+</navigation>
