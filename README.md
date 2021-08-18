@@ -4,4 +4,6 @@
 
 ![App Preview](https://github.com/demolaf/HNGi8Task2App/blob/master/Task2.gif)
 
-#####  Program to display my name. [Here](https://github.com/demolaf/HNGi8Task2App/blob/master/MyName.kt)
+###  Program to display my name. [Here](https://github.com/demolaf/HNGi8Task2App/blob/master/MyName.kt)
+
+### Zuri x HNG x i4G Internship. [Link](https://internship.zuri.team/)
